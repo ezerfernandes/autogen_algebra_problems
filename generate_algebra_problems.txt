@@ -1,0 +1,32 @@
+https://www.wolframalpha.com/problem-generator/?scrollTo=Algebra
+
+- Radicals
+--- Add
+--- Subtract
+--- Multiply
+--- Distribute
+--- Rationalize
+--- Simplify
+
+- Complex Numbers
+--- Add
+--- Subtract
+--- Multiply
+--- Divide
+--- Find the norm
+
+- Polynomials
+--- Evaluate at a point
+--- Add
+--- Subtract
+--- Expand
+--- Factor
+--- Multiply monomial and polynomial
+--- Multiply two polynomials
+--- Binomial expansion
+--- Horizontal axis intercepts
+
+- Quadratic polynomials
+--- Expand
+--- Factor
+--- Complete the square
